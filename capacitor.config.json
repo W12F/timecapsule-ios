@@ -1,0 +1,12 @@
+{
+  "appId": "com.timecapsule.app",
+  "appName": "时间胶囊",
+  "webDir": "www",
+  "server": {
+    "iosScheme": "capacitor"
+  },
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#FBF6EA"
+  }
+}

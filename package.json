@@ -1,0 +1,16 @@
+{
+  "name": "timecapsule-ios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "时间胶囊 iOS 工程（Capacitor WKWebView）",
+  "scripts": {
+    "sync": "cap sync ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/ios": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}
